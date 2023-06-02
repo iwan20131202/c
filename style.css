@@ -1,0 +1,27 @@
+.nav{
+    display:flex;
+    justify-content: center;
+    gap: 99px;
+   font-family: playfair display;
+   
+   }
+.n {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 65px;
+    margin-top: 92px;
+    margin-left: 148px;
+    margin-right: 147px;
+    margin-bottom: 62px;
+    justify-content: center;
+    color: darkgrey;
+   }
+.A {
+    color: darkgrey;
+} 
+.v {
+    color: darkgrey;
+}
+.c {
+    color: darkgrey;
+}
